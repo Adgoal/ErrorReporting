@@ -6,7 +6,7 @@
     "require": {
         "php": "^7.3",
         "adgoal-common/base": "^4.0",
-        "adgoal-common/value-object": "v3.9.5",
+        "adgoal-common/value-object": "^3.10",
         "queue-interop/amqp-interop": "^0.8",
         "queue-interop/queue-interop": "^0.7|^0.8",
         "enqueue/enqueue": "^0.10",
